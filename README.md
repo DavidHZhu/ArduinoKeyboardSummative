@@ -1,2 +1,2 @@
-# ArduinoKeyboardSummative
-Arduino Electronic Keyboard (ICS4U 2017)
+# ICS4U-Summative
+Arduino Musical Keyboard, with buttons and LCD
